@@ -1,14 +1,12 @@
-country	hdicode	2021	2022
-Benin	Low	0.502	0.504
-Burkina Faso	Low	0.445	0.438
-Cabo Verde	Medium	0.649	0.65
-Ethiopia	Low	0.489	0.492
-Fiji	High 0.715	0.729
-Kenya	Medium 0.596	0.601
-Namibia	Medium 0.616	0.61
-Nigeria	Low	0.542	0.548
-Senegal	Low	0.512	0.517
-South Africa Low 0.721	0.717
-Sudan	Low	0.516	0.516
-Tanzania Low	0.529	0.532
-Zambia	Medium	0.549	0.55
+Benin,	0.502
+Cabo Verde, 0.649	
+Ethiopia,	0.489
+Fiji,	0.715
+Kenya,	0.596
+Namibia, 0.616
+Nigeria, 0.542
+Senegal, 0.512
+South Africa, 0.721
+Sudan, 0.516
+Tanzania, 0.529
+Zambia, 0.549
